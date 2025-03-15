@@ -1,0 +1,19 @@
+body {
+  background-color: #000;
+  color: #fff;
+}
+.copyright p {
+  background-color: #000000;
+}
+.mob textarea {
+  border-bottom: 1px solid #fff;
+}
+.mob input {
+  border-bottom: 1px solid #fff;
+}
+.textareacontainer textarea {
+  border-bottom: 1px solid #fff;
+}
+.inputcontainer input {
+  border-bottom: 1px solid #fff;
+}
